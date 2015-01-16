@@ -21,10 +21,9 @@ In this screenshot I've taken a hard surface model of a storm lantern that is fr
 ![Copper Ramp shader 1](images/copper-ramp-shader.png)  
 ![Copper Ramp Shader 2](images/copper-ramp-shader2.png)  
 
-
 ## Attribute Preset Installation ##
 
-You can install this Maya preset by copying the copperRampShader.mel file to one the following Maya attribute presets folders. You will probably have to create the folder named "rampShader" in your attrPresets directory too.
+You can install this Maya preset by copying the copperRampShader.mel file to one of the following Maya attribute presets folders. You will probably have to create the folder named "rampShader" in your attrPresets directory, too.
 
 **Windows:**
 
